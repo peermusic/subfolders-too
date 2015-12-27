@@ -1,0 +1,25 @@
+{
+  "name": "subfolders-too",
+  "version": "1.0.0",
+  "description": "Helper for taking the dataTransfer of a drop event and returning all files (including out of subfolders).",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peermusic/subfolders-too.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "helper",
+    "files"
+  ],
+  "author": "https://github.com/orgs/peermusic/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peermusic/subfolders-too/issues"
+  },
+  "homepage": "https://github.com/peermusic/subfolders-too#readme"
+}
