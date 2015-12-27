@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/peermusic/subfolders-too/issues"
   },
-  "homepage": "https://github.com/peermusic/subfolders-too#readme"
+  "homepage": "https://github.com/peermusic/subfolders-too#readme",
+  "dependencies": {
+    "async": "^1.5.0"
+  }
 }
