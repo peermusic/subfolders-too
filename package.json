@@ -24,5 +24,8 @@
   "homepage": "https://github.com/peermusic/subfolders-too#readme",
   "dependencies": {
     "async": "^1.5.0"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
   }
 }
