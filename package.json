@@ -1,6 +1,6 @@
 {
   "name": "subfolders-too",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Helper for taking the dataTransfer of a drop event and returning all files (including out of subfolders).",
   "main": "index.js",
   "scripts": {
