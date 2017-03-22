@@ -1,11 +1,11 @@
-# Subfolders Too
+# SubfoldersToo
 
 Helper for taking the `dataTransfer` of a drop event and returning all files (including out of subfolders).
 
 ## Install
 
 ```sh
-npm install https://github.com/peermusic/subfolders-too
+npm install subfolders-too
 ```
 
 For reference see the [Browserify Handbook](https://github.com/substack/browserify-handbook#how-node_modules-works).

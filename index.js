@@ -1,7 +1,5 @@
 var async = require('async')
 
-module.exports = dropEventHelper
-
 // Helper for taking the dataTransfer of a drop event and returning all files (including out of subfolders).
 function dropEventHelper (event, callback) {
   // Get all entries from the event
@@ -48,3 +46,5 @@ function traverseEntryTree (entry, callback) {
     dirReader.readEntries(function (entries) { getFilesFromEntries(entries, callback) })
   }
 }
+
+module.exports = dropEventHelper
