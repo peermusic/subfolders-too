@@ -1,3 +1,7 @@
+### :boom: Careful: This package is no longer maintained and is only here for historic reasons. This means you should very likely not use it. You have been warned. :boom:
+
+---
+
 # SubfoldersToo
 
 Helper for taking the `dataTransfer` of a drop event and returning all files (including out of subfolders).
